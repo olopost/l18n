@@ -93,7 +93,7 @@ for cmd in ('sdist', 'bdist', 'bdist_egg', 'bdist_rpm', 'bdist_wininst'):
 
 # setup function parameters
 if sys.version_info > (3, 0):
-    longdescr = open(os.path.join('README.rst', encoding='utf-8')).read()
+    longdescr = open(os.path.join('README.rst'), encoding='utf-8').read()
 else:
     longdescr = open(os.path.join('README.rst')).read()
 
