@@ -1,0 +1,26 @@
+[tz_cities]
+Antarctica/Macquarie=Macquarie Island
+Pacific/Easter=Easter Island
+Pacific/Bougainville=Bougainville Island
+
+[tz_locations]
+Africa = Africa
+America = America
+Antarctica = Antarctica
+Arctic = Arctic
+Argentina = Argentina
+Asia = Asia
+Atlantic = Atlantic
+Australia = Australia
+Brazil = Brazil
+Canada = Canada
+Chile = Chile
+Etc = Etc
+Europe = Europe
+Indian = Indian
+Indiana = Indiana
+Kentucky = Kentucky
+Mexico = Mexico
+North_Dakota = North Dakota
+Pacific = Pacific
+US = United States

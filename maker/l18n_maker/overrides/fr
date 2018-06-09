@@ -1,0 +1,34 @@
+[tz_cities]
+Africa/Juba=Djouba
+America/Montreal=Montréal
+Antarctica/Macquarie=Île Macquarie
+Asia/Ho_Chi_Minh=Hô-Chi-Minh-Ville
+Canada/Atlantic=Atlantique
+Canada/Central=Centre
+Canada/Eastern=Est
+Canada/Mountain=Rocheuses
+Canada/Newfoundland=Terre-Neuve
+Canada/Pacific=Terre-Neuve
+Pacific/Bougainville=Île Bougainville
+US/Central=Centre
+US/Eastern=Est
+US/Hawaii=Hawaï
+US/Mountain=Rocheuses
+US/Pacific=Pacifique
+
+[tz_locations]
+Africa = Afrique
+America = Amérique
+Antarctica = Antarctique
+Arctic = Arctique
+Argentina = Argentine
+Asia = Asie
+Atlantic = Atlantique
+Australia = Australie
+Brazil = Brésil
+Chile = Chili
+Indian = Indien
+Mexico = Mexique
+North_Dakota = Dakota du Nord
+Pacific = Pacifique
+US = Etats-Unis
