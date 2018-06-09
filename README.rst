@@ -1,3 +1,8 @@
+Fork of l18n
+=============
+That's a fork of https://bitbucket.org/tkhyn/l18n/src/release/ resolving the issues : #4: setup.py raises UnicodeDecodeError trying to read README.rst
+
+
 l18n
 ====
 
